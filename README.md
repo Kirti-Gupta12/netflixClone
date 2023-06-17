@@ -3,7 +3,7 @@
  <h3 align='center'><a href='https://netflixcloneit.netlify.app/' target="_blank">Live Demo</a></h3>
 
 ## About the Project
-<p>This is a Clone of Netflix, website built using React-JS as a Front-end & Firebase as Back-end. It’s not a replica, and it doesn’t have all the features of Netflix website. It’s a similar version of Netflix with our my design touch, showing my abilities in React-JS to build something advanced like Netflix. It contains the home page, sign-in page, sign-up page and page with list of movies that are being fetched using TMDB API.</p>
+<p>This is a Clone of Netflix, website built using React-JS as a Front-end & Firebase as Back-end. It’s not a replica, and it doesn’t have all the features of Netflix website. It’s a similar version of Netflix with my own design touch, showing my abilities in React-JS to build something advanced like Netflix. It contains the home page, sign-in page, sign-up page and page with list of movies that are being fetched using TMDB API.</p>
 
 ## Technology Stack
 <div display='flex'>
